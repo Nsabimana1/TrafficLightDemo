@@ -1,0 +1,23 @@
+#light1,#light2, #light0{
+  height: 70px;
+  width: 70px;
+  border-radius: 50px;
+  margin: 5px 5px;
+  /* background-color: blue; */
+}
+
+.red{
+  background-color: red;
+}
+
+.green{
+  background-color: green;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.black{
+  background-color: black;
+}
