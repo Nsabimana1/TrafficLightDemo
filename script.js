@@ -22,5 +22,5 @@ const clicker = (light)=>{
 }
   $("#light1").click(clicker)
   $("#light2").click(clicker)
-  $("#light3").click(clicker)
+  $("#light0").click(clicker)
 });
